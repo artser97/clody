@@ -1,0 +1,1 @@
+{ "instruction": "greet in greet.mjs requires a name. Give it a default of 'world' so greet() works. Tests must pass.", "verify": "node --test" }

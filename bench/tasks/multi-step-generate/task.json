@@ -1,0 +1,1 @@
+{ "instruction": "First run gen.mjs to produce data.json, then implement readTotal in stats.mjs to return the sum of the values array in data.json. Tests must pass.", "verify": "node --test" }

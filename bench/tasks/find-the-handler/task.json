@@ -1,0 +1,1 @@
+{ "instruction": "Somewhere in this project a function named handleTimeout is defined. Create a file ANSWER.md containing exactly one line: the path of the file that defines it.", "verify": "node verify.mjs" }

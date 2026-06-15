@@ -1,0 +1,1 @@
+{ "instruction": "Add a timeoutMs field with value 5000 to config.json, and make getTimeout in client.mjs return it (read the config file). Tests must pass.", "verify": "node --test" }

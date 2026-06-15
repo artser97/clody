@@ -1,0 +1,1 @@
+{ "instruction": "The lastN function in lib.mjs is buggy — tests fail. Find the bug and fix it. Run the tests to confirm.", "verify": "node --test" }

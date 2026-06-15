@@ -1,0 +1,1 @@
+{ "instruction": "Implement the isPalindrome function in lib.mjs so the tests pass. It should ignore case and spaces.", "verify": "node --test" }

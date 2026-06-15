@@ -1,0 +1,1 @@
+{ "instruction": "Tests fail. README.md documents the intended behavior — decide whether the code or the test is wrong, and fix the wrong one.", "verify": "node verify.mjs" }

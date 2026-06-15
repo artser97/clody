@@ -1,0 +1,1 @@
+{ "instruction": "divide in math.mjs silently returns Infinity for division by zero. Make it throw a RangeError with the message 'division by zero' instead. Tests must pass.", "verify": "node --test" }

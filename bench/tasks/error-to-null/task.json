@@ -1,0 +1,1 @@
+{ "instruction": "parseSafe in parse.mjs currently throws on invalid JSON. Change it to return null for invalid input instead, keeping valid parsing intact. Tests must pass.", "verify": "node --test" }

@@ -1,0 +1,1 @@
+{ "instruction": "Implement parseDuration in duration.mjs according to SPEC.md. Tests must pass.", "verify": "node --test" }

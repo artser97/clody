@@ -1,0 +1,1 @@
+{ "instruction": "Running the tests fails with a TypeError. Fix the bug in main.mjs.", "verify": "node --test" }

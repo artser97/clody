@@ -1,0 +1,1 @@
+{ "instruction": "The tests fail with a module-not-found error. Fix it without moving any files.", "verify": "node --test" }

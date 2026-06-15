@@ -1,0 +1,9 @@
+{
+  "name": "@clody/cli",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "bin": { "clody": "./src/bin.ts" },
+  "scripts": { "test": "bun test" },
+  "dependencies": { "@clody/core": "workspace:*", "@clody/context": "workspace:*", "@clack/prompts": "^0.7.0" }
+}

@@ -1,0 +1,1 @@
+{ "instruction": "prices.mjs duplicates the tax calculation in two functions. Extract it into a single helper named applyTax (exported or not) and use it from both. Tests must stay green.", "verify": "node verify.mjs" }

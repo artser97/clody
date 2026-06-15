@@ -1,0 +1,1 @@
+{ "instruction": "cli.mjs echoes its first argument. Add support for an --upper flag that upper-cases the output. node cli.mjs hello --upper must print HELLO.", "verify": "node verify.mjs" }

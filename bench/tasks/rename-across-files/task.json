@@ -1,0 +1,1 @@
+{ "instruction": "Rename the function calc to computeTotal everywhere in this project (definition and all usages). Tests must pass afterwards.", "verify": "node --test" }
